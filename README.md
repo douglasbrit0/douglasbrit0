@@ -19,3 +19,10 @@ Hi there, my name is **Douglas Brito**, a junior studying Finance and Mathematic
 I am a Certificate in Quantitative Finance Alum where I worked on projects like a Crude Oil Directional Classifier, Delta Hedging with Stochastic Volatility, 
 and European & Binary Call Option Pricing. In addition to my work outside the classroom and in the CQF, I serve as the National Director of Technology for
 Kappa Theta Pi, and Director of Technical Education for the Texas Business of Sports Student Organization. 
+
+#Langauges
+- Python (pandas, NumPy)
+- R (R Studio, ggplot2)
+- C++
+- Java
+- MATLAB
