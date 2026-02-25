@@ -20,7 +20,7 @@ I am a Certificate in Quantitative Finance Alum where I worked on projects like 
 and European & Binary Call Option Pricing. In addition to my work outside the classroom and in the CQF, I serve as the National Director of Technology for
 Kappa Theta Pi, and Director of Technical Education for the Texas Business of Sports Student Organization. 
 
-#Langauges
+**Langauges**
 - Python (pandas, NumPy)
 - R (R Studio, ggplot2)
 - C++
