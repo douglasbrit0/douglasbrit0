@@ -28,7 +28,8 @@ Kappa Theta Pi, and Director of Technical Education for the Texas Business of Sp
 - MATLAB
 
 **Information**
--📍 Based in: Austin, Texas
+
+- 📍 Based in: Austin, Texas
 - 🎯 Career Goal: Risk and Quantitative Analysis  
 - 🔗 LinkedIn: https://www.linkedin.com/in/douglascebrito/
 - 📬 Email: douglascebrito@gmail.com
